@@ -20,6 +20,6 @@ max_days = 150
 
 ## Requirements
 
-- Python 3.8 or later
+- Python 3.X
 - NumPy
 - SciPy
